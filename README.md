@@ -36,12 +36,7 @@ To run this project, install the required dependencies using:
 
 pip install pandas numpy scikit-learn matplotlib seaborn
 
-Usage
-
-Clone the repository:
-
-git clone https://github.com/your-repo/decision-tree-purchasing-behavior.git
-
+ 
 Navigate to the project directory:
 
 cd decision-tree-purchasing-behavior
